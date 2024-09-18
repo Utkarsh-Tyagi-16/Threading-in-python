@@ -5,11 +5,8 @@ Welcome to the Python Threads repository! This repository contains examples and 
 ## Table of Contents 📚
 
 - [Introduction](#introduction)
-- [Getting Started](#getting-started)
 - [Examples](#examples)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction 📖
 
@@ -19,7 +16,11 @@ Threading in Python allows for parallel execution of code, which can be benefici
   Here are some examples of what you'll find in this repository:
   
   1.Basic Threading: A simple example demonstrating how to create and start threads. 🧵
+  
   2.Thread Synchronization: Examples of using thread locks to prevent race conditions. 🔒
+  
   3.Thread Pooling: Using the concurrent.futures module to manage a pool of threads. 🏊‍♂️
+  
   4.Thread Communication: Demonstrates how threads can communicate using queues. 💬
+  
   You can find the examples in the examples directory.
